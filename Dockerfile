@@ -1,4 +1,4 @@
-FROM docker://ghcr.io/michal-h21/make4ht-action:latest
+FROM ghcr.io/michal-h21/make4ht-action:latest
 
 LABEL "maintainer"="Raghav Kansal <rkansal@cern.ch>"
 LABEL "repository"="https://github.com/rkansal47/make4ht-action"
