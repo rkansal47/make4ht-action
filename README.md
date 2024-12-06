@@ -1,3 +1,3 @@
 # make4ht-action
 
-Docker image with extra libraries for compiling latex -> HTML websites e.g. https://rkansal47.github.io/standard-model/. 
+Extending the [make4ht-action](https://github.com/michal-h21/make4ht-action) Docker image with some extra libraries for https://rkansal47.github.io/standard-model/. 
